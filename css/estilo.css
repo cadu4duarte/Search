@@ -1,3 +1,7 @@
+/*-----layout-------*/
+
+
+
 /*-navbar-*/
 nav.navbar-transparente {
     padding: 10px 0;
@@ -8,4 +12,34 @@ nav.navbar-transparente {
     width: 1px;
     visibility: hidden;
     margin: 12px 15px;
+}
+
+/*-centro-*/
+#home {
+    height: 576px;
+    width: 100%;
+    padding-top: 200px;
+    
+}
+
+
+.logo {
+    text-align: center;
+    
+}
+
+.campo-buscar {
+    padding: 15px;
+}
+
+.botao {
+    padding: 20px
+}
+
+button {
+    margin: 0 5px;
+}
+
+footer {
+    background: black;
 }
