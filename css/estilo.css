@@ -1,11 +1,11 @@
 /*-navbar-*/
 nav.navbar-transparente {
-    padding: 15px 0;
-    background: rgba(0, 0, 0, 0.6);
+    padding: 10px 0;
+    background: rgba(0, 0, 0, 0.4);
 }
 
 .divisor {
     width: 1px;
-    background: white;
+    visibility: hidden;
     margin: 12px 15px;
 }
